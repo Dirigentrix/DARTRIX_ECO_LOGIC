@@ -1,5 +1,7 @@
 # DARTRIX ECO‑LOGIC
 
+**Deterministic Learning Core** – this repository includes the Deterministic Learning Core implementation.
+
 **DARTRIX ECO‑LOGIC** is a deterministic digital‑twin OBD‑II simulator engineered for **Low‑Emission‑Zone (LEZ) compliance**, deterministic control, and hackathon demo purposes.  It showcases DARTRIX‑style technical rigor and clean, production‑ready code.
 
 ---
